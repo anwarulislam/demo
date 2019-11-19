@@ -1,14 +1,5 @@
 {
-    "videos": [
-        {
-            "id": "123",
-            "url": "https://iframe.dacast.com/b/143064/c/513709",
-            "title": "video title hobe"
-        },
-        {
-            "id": "yt23",
-            "url": "https://www.youtube.com/embed/hY132hqvT3U",
-            "title": "video title hobe"
-        }
-    ]
+   "id": "yt23",
+  "url": "https://www.youtube.com/embed/hY132hqvT3U",
+  "title": "video title hobe"
 }
