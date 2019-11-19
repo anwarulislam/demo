@@ -1,12 +1,12 @@
 {
-  videos: [
-    {
-      id: '123',
-      url: 'https://iframe.dacast.com/b/143064/c/513709'
-    },
-    {
-      id: 'yt23',
-      url: 'https://www.youtube.com/watch?v=hY132hqvT3U'
-    }
-  ]
+    "videos": [
+        {
+            "id": "123",
+            "url": "https://iframe.dacast.com/b/143064/c/513709"
+        },
+        {
+            "id": "yt23",
+            "url": "https://www.youtube.com/watch?v=hY132hqvT3U"
+        }
+    ]
 }
